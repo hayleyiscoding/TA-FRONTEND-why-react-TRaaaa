@@ -335,6 +335,7 @@ a:hover {
 
 4) Code in 'rem'
  */
+
 #root {
   padding: 4rem;
 }
@@ -342,7 +343,6 @@ a:hover {
   text-transform: capitalize;
   font-weight: bolder;
 }
-
 h1 {
   text-align: center;
   font-size: 3rem;
